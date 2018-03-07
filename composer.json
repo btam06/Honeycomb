@@ -1,0 +1,23 @@
+{
+    "name": "llamataur/method-sort",
+    "description": "Callback for object sorting",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":  "Brian Tam",
+            "email": "btam06@gmail.com",
+            "role":  "Developer"
+        },
+        {
+            "name":  "Matthew Sahagian",
+            "email": "mattew.sahagian@gmail.com",
+            "role":  "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
