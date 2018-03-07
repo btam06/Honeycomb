@@ -1,5 +1,5 @@
 {
-    "name": "honeycomb/sort-hex",
+    "name": "honeycomb/sort",
     "description": "Callback for object sorting",
     "license": "MIT",
     "authors": [
