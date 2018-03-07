@@ -1,5 +1,5 @@
 <?php
-namespace Llamataur;
+namespace Honeycomb;
 
 /**
  *
