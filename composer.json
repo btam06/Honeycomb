@@ -1,6 +1,6 @@
 {
     "name": "honeycomb/method-sort",
-    "description": "Callback for object sorting",
+    "description": "Misc framework/library agnostic utility classes and objects",
     "license": "MIT",
     "authors": [
         {
@@ -19,5 +19,8 @@
     },
     "autoload": {
         "classmap": ["src/"]
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.4"
     }
 }
