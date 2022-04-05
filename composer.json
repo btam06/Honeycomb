@@ -20,8 +20,8 @@
     "autoload": {
         "classmap": ["src/functions"],
         "files" : [
-            "src/Debracketize.php",
-            "src/ArrayFlatten.php"
+            "src/functions/Debracketize.php",
+            "src/functions/ArrayFlatten.php"
         ]
     },
     "require-dev": {
