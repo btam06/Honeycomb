@@ -18,9 +18,10 @@
         "php": ">=5.6.0"
     },
     "autoload": {
-        "classmap": ["src/"],
+        "classmap": ["src/functions"],
         "files" : [
-            "src/Debracketize.php"
+            "src/Debracketize.php",
+            "src/ArrayFlatten.php"
         ]
     },
     "require-dev": {
